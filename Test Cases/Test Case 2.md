@@ -12,10 +12,10 @@ A technician is:
 - Recorded in a `testing_event` involving a specific airplane
   
 #### *Tables Used*
-•	employee – Technician identity
+- employee – Technician identity
 
-•	employee_union – Union membership
+-	employee_union – Union membership
 
-•	testing_event – Event participation
+-	testing_event – Event participation
 
-•	airplane – Model tested
+-	airplane – Model tested
