@@ -1,6 +1,8 @@
 # MariaDB_Database_Airplane
 SET09801 2024-5
 
+![Author](https://img.shields.io/badge/Author-Natalie%20%20Ng-yellow?plastic)
+
 #### Edinburgh Airport Database Project
 Frequent fliers at Edinburgh International Airport have raised concerns about poor organization and inefficiencies in airport operations. In response, airport management has decided to implement a centralized database system to streamline information management. This project involves designing and implementing a relational database to support key airport functions, particularly around aircraft maintenance, employee management, and regulatory compliance.
 
